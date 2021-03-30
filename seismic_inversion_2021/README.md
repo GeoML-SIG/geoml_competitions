@@ -1,5 +1,13 @@
 # 2021 Seismic Inversion Challenge
 
+This is the installation guide for the serverless data available through 
+the GSH Geophysics on the cloud challenge. SEGY, rss and OpenVDS data is available:
+
+s3://geophysics-on-cloud/poseidon/seismic
+
+SEGY can be read directly using boto3 or s3fs, rss and OpenVDS+ require additional 
+python libraries to access.
+
 # RSS - Python Installation
 
 ## Windows, OSX, Ubuntu, ....  Python 3.6, 3.8, 3.9
