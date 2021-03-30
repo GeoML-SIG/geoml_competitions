@@ -1,6 +1,12 @@
 # 2021 Seismic Inversion Challenge
 
-# OpenVDS - Python
+# RSS - Python Installation
+
+## Windows, OSX, Ubuntu, ....  Python 3.6, 3.8, 3.9
+
+pip install real-simple-seismic
+
+# OpenVDS - Python Installation
 
 [Download] https://bluware.com/downloads/download-openvds/
 
