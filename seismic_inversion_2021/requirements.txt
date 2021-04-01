@@ -1,6 +1,6 @@
-ipytree~=0.2.1
-matplotlib~=3.3.4
-numpy~=1.19.2
-python-dotenv~=0.15.0
-s3fs~=0.5.2
-zarr~=2.6.1
+ipytree
+matplotlib
+numpy
+pandas
+python-dotenv
+real-simple-seismic
