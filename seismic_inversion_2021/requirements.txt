@@ -1,6 +1,6 @@
-ipytree
 matplotlib
 numpy
 pandas
-python-dotenv
 real-simple-seismic
+s3fs
+seaborn
