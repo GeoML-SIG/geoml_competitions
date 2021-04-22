@@ -2,6 +2,12 @@
 
 Please visit the website for competition details: https://www.geoscienceml.org/
 
+# Scoreboard - April 22
+
+| **Team Name**        | **Score Type**        | **Date**                 | **Score (R<sup>2</sup>)** |
+|:---------------------|:---------------------:|:------------------------:|:-------------------------:|
+| TeamQI               | Intermediate          | 2021-04-21               | 0.68014                   |
+
 # Installation Guide
 
 This is the installation guide for the serverless data available through 
