@@ -13,10 +13,16 @@ Please visit the website for competition details: https://www.geoscienceml.org/
 This is the installation guide for the serverless data available through 
 the GSH Geophysics on the cloud challenge. SEGY, rss and OpenVDS data is available:
 
-s3://geophysics-on-cloud/poseidon/seismic
+`s3://sagemaker-gitc2021/poseidon/seismic/`
 
 SEGY can be read directly using boto3 or s3fs, rss and OpenVDS+ require additional 
 python libraries to access.
+
+Well and horizon data are located here:
+
+`s3://sagemaker-gitc2021/poseidon/horizons`
+
+`s3://sagemaker-gitc2021/poseidon/wells`
 
 # RSS - Python Installation
 
