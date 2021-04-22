@@ -71,9 +71,15 @@ def get_slice(access_manager, layout, slice_type, slice_coordinate, lod=0):
     min_slice = tuple(slice_index + 0 if dim == slice_dim else 0 for dim in range(6))
     max_slice = tuple(slice_index + 1 if dim == slice_dim else layout.getDimensionNumSamples(dim) for dim in range(6))
 
-    req = access_manager.requestVolumeSubset(min_slice, max_slice,
-                                             format=openvds.VolumeDataChannelDescriptor.Format.Format_R32,
-                                             dimensionsND=dimensions_nd)
+    # Let's try optimized slices first, if this fails default to brick.
+    try:
+        req = access_manager.requestVolumeSubset(min_slice, max_slice,
+                                                 format=openvds.VolumeDataChannelDescriptor.Format.Format_R32,
+                                                 dimensionsND=dimensions_nd)
+    except:
+        req = access_manager.requestVolumeSubset(min_slice, max_slice,
+                                                 format=openvds.VolumeDataChannelDescriptor.Format.Format_R32,
+                                                 dimensionsND=openvds.DimensionsND.Dimensions_012)
 
     height = max_slice[0] if slice_dim != 0 else max_slice[1]
     width = max_slice[2] if slice_dim != 2 else max_slice[1]
