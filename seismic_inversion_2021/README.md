@@ -8,6 +8,7 @@ Please visit the website for competition details: https://www.geoscienceml.org/
 |:---------------------|:---------------------:|:------------------------:|:-------------------------:|
 | TeamCowboy           | Intermediate03        | 2021-04-23               | 0.749855                  |
 | TeamCowboy           | Intermediate05        | 2021-04-23               | 0.744141                  |
+| TeamCowboy           | Intermediate07        | 2021-04-23               | 0.740950                  |
 | TeamQI               | Intermediate          | 2021-04-22               | 0.682238                  |
 | TeamQI               | Intermediate          | 2021-04-21               | 0.680140                  |
 | TeamQI               | Intermediate          | 2021-04-23               | 0.674240                  |
