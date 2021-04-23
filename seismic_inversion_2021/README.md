@@ -7,9 +7,13 @@ Please visit the website for competition details: https://www.geoscienceml.org/
 | **Team Name**        | **Score Type**        | **Date**                 | **Score (R<sup>2</sup>)** |
 |:---------------------|:---------------------:|:------------------------:|:-------------------------:|
 | TeamCowboy           | Intermediate03        | 2021-04-23               | 0.749855                  |
-| TeamCowboy           | Intermediate02        | 2021-04-23               | 0.746298                  |
+| TeamCowboy           | Intermediate05        | 2021-04-23               | 0.744141                  |
+| TeamCowboy           | Intermediate02        | 2021-04-23               | 0.744141                  |
 | TeamQI               | Intermediate          | 2021-04-22               | 0.682238                  |
 | TeamQI               | Intermediate          | 2021-04-21               | 0.680140                  |
+| TeamQI               | Intermediate          | 2021-04-23               | 0.674240                  |
+| 7seas                | Intermediate02        | 2021-04-22               | 0.614438                  |
+| seismicboosters      | Intermediate          | 2021-04-23               | 0.574381                  |
 
 # Installation Guide
 
