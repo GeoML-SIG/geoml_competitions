@@ -6,7 +6,8 @@ Please visit the website for competition details: https://www.geoscienceml.org/
 
 | **Team Name**        | **Score Type**        | **Date**                 | **Score (R<sup>2</sup>)** |
 |:---------------------|:---------------------:|:------------------------:|:-------------------------:|
-| TeamQI               | Intermediate          | 2021-04-21               | 0.68014                   |
+| TeamQI               | Intermediate          | 2021-04-22               | 0.682238                  |
+| TeamQI               | Intermediate          | 2021-04-21               | 0.680140                  |
 
 # Installation Guide
 
