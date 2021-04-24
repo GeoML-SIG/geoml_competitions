@@ -6,10 +6,12 @@ Please visit the website for competition details: https://www.geoscienceml.org/
 
 | **Team Name**        | **Score Type**        | **Date**                 | **Score (R<sup>2</sup>)** |
 |:---------------------|:---------------------:|:------------------------:|:-------------------------:|
+| TeamCowboy           | Intermediate08        | 2021-04-24               | 0.750102                  |
 | TeamCowboy           | Intermediate03        | 2021-04-23               | 0.749855                  |
 | TeamCowboy           | Intermediate05        | 2021-04-23               | 0.744141                  |
 | TeamCowboy           | Intermediate07        | 2021-04-23               | 0.740950                  |
 | TeamKT               | Intermediate          | 2021-04-24               | 0.723424                  |
+| TeamGeoCloud         | Intermediate02        | 2021-04-24               | 0.690093                 |
 | TeamQI               | Intermediate          | 2021-04-22               | 0.682238                  |
 | TeamQI               | Intermediate          | 2021-04-21               | 0.680140                  |
 | TeamQI               | Intermediate          | 2021-04-23               | 0.674240                  |
@@ -17,7 +19,7 @@ Please visit the website for competition details: https://www.geoscienceml.org/
 | seismicboosters      | Intermediate          | 2021-04-23               | 0.574381                  |
 | 7seas                | Intermediate02        | 2021-04-23               | 0.263788                  |
 | Maquina              | Intermediate02        | 2021-04-23               | -0.333030                 |
-| TeamGeoCloud         | Intermediate          | 2021-04-24               | -5.583223                 |
+| Tongseng             | Intermediate          | 2021-04-25               | -1.580040                 |
 
 # Installation Guide
 
