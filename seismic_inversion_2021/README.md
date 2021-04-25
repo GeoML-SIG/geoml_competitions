@@ -2,24 +2,32 @@
 
 Please visit the website for competition details: https://www.geoscienceml.org/
 
-# Scoreboard - April 23
+# Scoreboard - April 25
 
 | **Team Name**        | **Score Type**        | **Date**                 | **Score (R<sup>2</sup>)** |
 |:---------------------|:---------------------:|:------------------------:|:-------------------------:|
-| TeamCowboy           | Intermediate08        | 2021-04-24               | 0.750102                  |
-| TeamCowboy           | Intermediate03        | 2021-04-23               | 0.749855                  |
-| TeamCowboy           | Intermediate05        | 2021-04-23               | 0.744141                  |
-| TeamCowboy           | Intermediate07        | 2021-04-23               | 0.740950                  |
-| TeamKT               | Intermediate          | 2021-04-24               | 0.723424                  |
-| TeamGeoCloud         | Intermediate02        | 2021-04-24               | 0.690093                 |
-| TeamQI               | Intermediate          | 2021-04-22               | 0.682238                  |
-| TeamQI               | Intermediate          | 2021-04-21               | 0.680140                  |
-| TeamQI               | Intermediate          | 2021-04-23               | 0.674240                  |
-| 7seas                | Intermediate02        | 2021-04-22               | 0.614438                  |
-| seismicboosters      | Intermediate          | 2021-04-23               | 0.574381                  |
-| 7seas                | Intermediate02        | 2021-04-23               | 0.263788                  |
-| Maquina              | Intermediate02        | 2021-04-23               | -0.333030                 |
-| Tongseng             | Intermediate          | 2021-04-25               | -1.580040                 |
+TeamCowboy             |Intermediate10         |4/24/2021                 |0.770885                   |
+TeamCowboy             |Intermediate09         |4/24/2021                 |0.766452                   |
+TeamCowboy             |Intermediate08         |4/24/2021                 |0.750102                   |
+TeamCowboy             |Intermediate03         |4/23/2021                 |0.749855                   |
+TeamKT                 |Intermediate03         |4/24/2021                 |0.744544                   |
+TeamCowboy             |Intermediate05         |4/23/2021                 |0.744141                   |
+TeamCowboy             |Intermediate07         |4/23/2021                 |0.74095                    |
+TeamKT                 |Intermediateb          |4/24/2021                 |0.724516                   |
+TeamKT                 |Intermediate           |4/24/2021                 |0.723424                   |
+TeamGeoCloud           |Intermediate03         |4/24/2021                 |0.710123                   |
+TeamKT                 |Intermediate02         |4/24/2021                 |0.707046                   |
+TeamGeoCloud           |Intermediate02         |4/24/2021                 |0.690093                   |
+TeamQI                 |Intermediate           |4/22/2021                 |0.682238                   |
+TeamQI                 |Intermediate           |4/21/2021                 |0.68014                    |
+TeamQI                 |Intermediate           |4/24/2021                 |0.677533                   |
+TeamQI                 |Intermediate           |4/23/2021                 |0.67424                    |
+7seas                  |Intermediate02         |4/22/2021                 |0.614438                   |
+seismicboosters        |Intermediate           |4/23/2021                 |0.574381                   |
+7seas                  |Intermediate01         |4/23/2021                 |0.263788                   |
+Maquina                |Intermediate02         |4/23/2021                 |-0.33303                   |
+Tongseng               |Intermediate02         |4/25/2021                 |-1.58004                   |
+Tongseng               |Intermediate           |4/25/2021                 |-1.58004                   |
 
 # Installation Guide
 
