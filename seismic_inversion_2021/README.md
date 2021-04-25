@@ -2,7 +2,7 @@
 
 Please visit the website for competition details: https://www.geoscienceml.org/
 
-# Scoreboard - April 25 - 3:00PM
+# Scoreboard - April 25 - 6:00PM
 
 | **Team Name**        | **Score Type**        | **Date**                 | **Score (R<sup>2</sup>)** |
 |:---------------------|:---------------------:|:------------------------:|:-------------------------:|
