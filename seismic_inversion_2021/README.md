@@ -2,22 +2,24 @@
 
 Please visit the website for competition details: https://www.geoscienceml.org/
 
-# Scoreboard - April 25 - 10:00PM
+# Scoreboard - April 25 - 11:45PM
 
 | **Team Name**        | **Score Type**        | **Date**                 | **Score (R<sup>2</sup>)** |
 |:---------------------|:---------------------:|:------------------------:|:-------------------------:|
-| TeamCowboy       | Intermediate11b             |           4/25/2021 |         0.777481 |
-| Team3ctsu       | Intermediate01             |           4/25/2021 |         0.744328 |
-| TeamKT       | Intermediate             |           4/24/2021 |         0.723424 |
-| TeamGeoCloud       | Intermediate03             |           4/24/2021 |         0.710123 |
-| TeamQI       | Intermediate             |           4/22/2021 |         0.682238 |
-| SLBIF       | Intermediate04             |           4/25/2021 |         0.681461 |
-| 7seas       | Intermediate02             |           4/22/2021 |         0.614438 |
-| seismicboosters       | Intermediate             |           4/23/2021 |         0.574381 |
-| GeoGeeks       | Intermediate             |           4/26/2021 |         0.277521 |
-| Maquina       | Intermediate02             |           4/23/2021 |         -0.33303 |
-| Mictlan       | Intermediate01            |            4/25/2021|          -1.051279 |
-| Tongseng       | Intermediate02             |           4/25/2021 |         -1.58004 |
+| TeamCowboy | Intermediate11b | 4/25/2021 | 0.777481 |
+| Team3ctsu | Intermediate03 | 4/25/2021 | 0.748777 |
+| TeamKT | Intermediate | 4/24/2021 | 0.723424 |
+| TeamGeoCloud | Intermediate03 | 4/24/2021 | 0.710123 |
+| TeamQI | Intermediate | 4/22/2021 | 0.682238 |
+| SLBIF | Intermediate04 | 4/25/2021 | 0.681461 |
+| 7seas | Intermediate02 | 4/22/2021 | 0.614438 |
+| seismicboosters | Intermediate | 4/23/2021 | 0.574381 |
+| GeoGeeks | Intermediate | 4/26/2021 | 0.277521 |
+| CREWES | Intermediate02 | 4/25/2021 | 0.161849 |
+| NeverStop | Intermediate1 | 4/25/2021 | -0.026146 |
+| Maquina | Intermediate02 | 4/23/2021 | -0.33303 |
+| Mictlan | Intermediate01 | 4/25/2021 | -1.051279 |
+| Tongseng | Intermediate02 | 4/25/2021 | -1.58004 |
 
 # Installation Guide
 
