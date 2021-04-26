@@ -2,26 +2,28 @@
 
 Please visit the website for competition details: https://www.geoscienceml.org/
 
-# Scoreboard - April 26 - 12:00PM
+# Scoreboard - April 26 - 3:30PM
 
 | **Team Name**        | **Score Type**        | **Date**                 | **Score (R<sup>2</sup>)** |
 |:---------------------|:---------------------:|:------------------------:|:-------------------------:|
-|Team3ctsu|Intermediate07|4/26/2021|0.789302|
-|TeamCowboy|Intermediate11b|4/25/2021|0.777481|
-|TeamKT|Intermediate06|4/25/2021|0.737037|
-|FYY|Intermediate02|4/26/2021|0.714284|
-|TeamGeoCloud|Intermediate06|4/26/2021|0.714178|
-|Tongseng|Intermediate01|4/26/2021|0.706852|
-|TeamQI|Intermediate04|4/26/2021|0.704526|
-|SLBIF|Intermediate04|4/25/2021|0.681461|
-|7seas|Intermediate02|4/22/2021|0.614438|
-|TAMUSEG|Intermediate|4/26/2021|0.574842|
-|seismicboosters|Intermediate|4/23/2021|0.574381|
-|GeoGeeks|Intermediate02|4/26/2021|0.192619|
-|CREWES|Intermediate02|4/25/2021|0.161849|
-|Maquina|Intermediate06|4/23/2021|0.014714|
-|NeverStop|Intermediate1|4/25/2021|-0.026146|
-|Mictlan|Intermediate01|4/25/2021|-1.051279|
+| Team3ctsu | Intermediate07 | 4/26/2021 | 0.789302 |
+| TeamCowboy | Intermediate13b | 4/26/2021 | 0.781131 |
+| TeamKT | Intermediate06 | 4/25/2021 | 0.737037 |
+| FYY | Intermediate02 | 4/26/2021 | 0.714284 |
+| TeamGeoCloud | Intermediate06 | 4/26/2021 | 0.714178 |
+| Tongseng | Intermediate01 | 4/26/2021 | 0.706852 |
+| TeamQI | Intermediate04 | 4/26/2021 | 0.704526 |
+| SLBIF | Intermediate04 | 4/25/2021 | 0.681461 |
+| 7seas | Intermediate02 | 4/22/2021 | 0.614438 |
+| TAMUSEG | Intermediate | 4/26/2021 | 0.574842 |
+| seismicboosters | Intermediate | 4/23/2021 | 0.574381 |
+| UsefulModel | Intermediate03 | 4/26/2021 | 0.482949 |
+| GeoGeeks | Intermediate02 | 4/26/2021 | 0.192619 |
+| CREWES | Intermediate02 | 4/25/2021 | 0.161849 |
+| Maquina | Intermediate06 | 4/23/2021 | 0.014714 |
+| NeverStop | Intermediate1 | 4/25/2021 | -0.026146 |
+| Mictlan | Intermediate01 | 4/25/2021 | -1.051279 |
+
 
 # Installation Guide
 
