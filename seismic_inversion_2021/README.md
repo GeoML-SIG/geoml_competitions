@@ -13,16 +13,17 @@ Please visit the website for competition details: https://www.geoscienceml.org/
 | TeamGeoCloud | Intermediate06 | 4/26/2021 | 0.714178 |
 | Tongseng | Intermediate01 | 4/26/2021 | 0.706852 |
 | TeamQI | Intermediate04 | 4/26/2021 | 0.704526 |
+| 7seas | Intermediate03 | 4/26/2021 | 0.683267 |
 | SLBIF | Intermediate04 | 4/25/2021 | 0.681461 |
-| 7seas | Intermediate02 | 4/22/2021 | 0.614438 |
-| TAMUSEG | Intermediate | 4/26/2021 | 0.574842 |
+| TAMUSEG | Intermediate05 | 4/26/2021 | 0.647979 |
 | seismicboosters | Intermediate | 4/23/2021 | 0.574381 |
 | UsefulModel | Intermediate03 | 4/26/2021 | 0.482949 |
 | GeoGeeks | Intermediate02 | 4/26/2021 | 0.192619 |
-| CREWES | Intermediate02 | 4/25/2021 | 0.161849 |
+| CREWES | Intermediate03 | 4/25/2021 | 0.161849 |
 | Maquina | Intermediate06 | 4/23/2021 | 0.014714 |
 | NeverStop | Intermediate1 | 4/25/2021 | -0.026146 |
 | Mictlan | Intermediate01 | 4/25/2021 | -1.051279 |
+
 
 
 # Installation Guide
