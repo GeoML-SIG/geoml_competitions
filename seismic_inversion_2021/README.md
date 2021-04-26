@@ -2,59 +2,22 @@
 
 Please visit the website for competition details: https://www.geoscienceml.org/
 
-# Scoreboard - April 25 - 6:00PM
+# Scoreboard - April 25 - 10:00PM
 
 | **Team Name**        | **Score Type**        | **Date**                 | **Score (R<sup>2</sup>)** |
 |:---------------------|:---------------------:|:------------------------:|:-------------------------:|
-|TeamCowboy|	Intermediate11b|	4/25/2021|	0.777481|
-|TeamCowboy|	Intermediate11a|	4/25/2021|	0.771603|
-|TeamCowboy|	Intermediate10|	4/24/2021|	0.770885|
-|TeamCowboy|	Intermediate09|	4/24/2021|	0.766452|
-|TeamCowboy|	Intermediate08|	4/24/2021|	0.750102|
-|TeamCowboy|	Intermediate03|	4/23/2021|	0.749855|
-|Team3ctsu|	Intermediate01|	4/25/2021|	0.744328|
-|TeamCowboy|	Intermediate05|	4/23/2021|	0.744141|
-|TeamCowboy|	Intermediate07|	4/23/2021|	0.74095|
-|TeamKT|	Intermediate|	4/24/2021|	0.723424|
-|TeamKT|	Intermediate04|	4/25/2021|	0.714812|
-|TeamGeoCloud|	Intermediate03|	4/24/2021|	0.710123|
-|TeamKT|	Intermediate05|	4/25/2021|	0.709756|
-|TeamKT|	Intermediate02|	4/24/2021|	0.707046|
-|TeamKT|	Intermediateb|	4/24/2021|	0.706418|
-|TeamGeoCloud|	Intermediate04|	4/25/2021|	0.693235|
-|TeamGeoCloud|	Intermediate|	4/24/2021|	0.690093|
-|TeamGeoCloud|	Intermediate02|	4/24/2021|	0.690093|
-|TeamKT|	Intermediate03|	4/24/2021|	0.685018|
-|TeamQI|	Intermediate|	4/22/2021|	0.682238|
-|TeamQI|	Intermediate|	4/21/2021|	0.68014|
-|TeamQI|	Intermediate04|	4/25/2021|	0.678346|
-|TeamQI|	Intermediate|	4/24/2021|	0.677533|
-|TeamQI|	Intermediate03|	4/25/2021|	0.674276|
-|TeamQI|	Intermediate|	4/23/2021|	0.67424|
-|TeamQI|	Intermediate05|	4/25/2021|	0.671527|
-|TeamQI|	Intermediate02|	4/25/2021|	0.666454|
-|SLBIF|	Intermediate03|	4/25/2021|	0.657024|
-|TeamQI|	Intermediate06|	4/25/2021|	0.649368|
-|7seas|	Intermediate02|	4/22/2021|	0.614438|
-|SLBIF|	Intermediate|	4/25/2021|	0.596641|
-|SLBIF|	Intermediate01|	4/25/2021|	0.596641|
-|seismicboosters|	Intermediate|	4/23/2021|	0.574381|
-|7seas|	Intermediate03|	4/25/2021|	0.500655|
-|TeamQI|	Intermediate01|	4/25/2021|	0.494481|
-|7seas|	Intermediate01|	4/25/2021|	0.484969|
-|7seas|	Intermediate02|	4/25/2021|	0.473945|
-|SLBIF|	Intermediate|	4/25/2021|	0.463192|
-|SLBIF|	Intermediate02|	4/25/2021|	0.463192|
-|GeoGeeks|	Intermediate|	4/26/2021|	0.277521|
-|7seas|	Intermediate01|	4/23/2021|	0.263788|
-|Maquina|	Intermediate02|	4/23/2021|	-0.33303|
-|Maquina|	Intermediate01|	4/23/2021|	-0.582522|
-|Mictlan|	Intermediate01|	4/25/2021|	-1.051279|
-|Mictlan|	Intermediate02|	4/25/2021|	-1.093139|
-|Tongseng|	Intermediate02|	4/25/2021|	-1.58004|
-|Tongseng|	Intermediate|	4/25/2021|	-1.58004|
-
-
+| TeamCowboy       | Intermediate11b             |           4/25/2021 |         0.777481 |
+| Team3ctsu       | Intermediate01             |           4/25/2021 |         0.744328 |
+| TeamKT       | Intermediate             |           4/24/2021 |         0.723424 |
+| TeamGeoCloud       | Intermediate03             |           4/24/2021 |         0.710123 |
+| TeamQI       | Intermediate             |           4/22/2021 |         0.682238 |
+| SLBIF       | Intermediate04             |           4/25/2021 |         0.681461 |
+| 7seas       | Intermediate02             |           4/22/2021 |         0.614438 |
+| seismicboosters       | Intermediate             |           4/23/2021 |         0.574381 |
+| GeoGeeks       | Intermediate             |           4/26/2021 |         0.277521 |
+| Maquina       | Intermediate02             |           4/23/2021 |         -0.33303 |
+| Mictlan       | Intermediate01            |            4/25/2021|          -1.051279 |
+| Tongseng       | Intermediate02             |           4/25/2021 |         -1.58004 |
 
 # Installation Guide
 
