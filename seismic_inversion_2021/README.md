@@ -2,30 +2,23 @@
 
 Please visit the website for competition details: https://www.geoscienceml.org/
 
-# Scoreboard - April 26 - 11:00PM
+# Scoreboard - April 26 - 11:59 PM
 
 | **Team Name**        | **Score Type**        | **Date**                 | **Score (R<sup>2</sup>)** |
 |:---------------------|:---------------------:|:------------------------:|:-------------------------:|
-| Team3ctsu | Intermediate07 | 4/26/2021 | 0.789302 | 
-| TeamCowboy | Intermediate13b | 4/26/2021 | 0.781131 | 
-| TeamKT | Intermediate06 | 4/25/2021 | 0.737037 | 
-| TeamGeoCloud | Intermediate08 | 4/26/2021 | 0.72156 | 
-| TeamQI | Intermediate07 | 4/26/2021 | 0.71626 | 
-| FYY | Intermediate02 | 4/26/2021 | 0.714284 | 
-| Tongseng | Intermediate01 | 4/26/2021 | 0.706852 | 
-| 7seas | Intermediate08 | 4/26/2021 | 0.704548 | 
-| SLBIF | Intermediate12 | 4/26/2021 | 0.691443 | 
-| NeverStop | Intermediate02 | 4/25/2021 | 0.678878 | 
-| TAMUSEG | Intermediate05 | 4/26/2021 | 0.647979 | 
-| seismicboosters | Intermediate | 4/23/2021 | 0.574381 | 
-| UsefulModel | Intermediate03 | 4/26/2021 | 0.482949 | 
-| Pythoneers | Intermediate01 | 4/26/2021 | 0.45166 | 
-| GeoGeeks | Intermediate02 | 4/26/2021 | 0.192619 | 
-| CREWES | Intermediate06 | 4/26/2021 | 0.185875 | 
-| Mictlan | Intermediate00 | 4/26/2021 | 0.139379 | 
-| Maquina | Intermediate07 | 4/23/2021 | 0.014714 | 
-
-
+| 3ctsu                | Final02               | 4/26/2021                | 0.8219                    |
+| Cowboy               | Final                 | 4/26/2021                | 0.781131                  |
+| Team KT              | Final                 | 4/26/2021                | 0.737037                  |
+| ChevronQI            | Final02               | 4/26/2021                | 0.71626                   |
+| GeoCloud             | Final                 | 4/26/2021                | 0.71469                   |
+| Tongseng             | Final01               | 4/26/2021                | 0.706852                  |
+| 7seas                | Final                 | 4/26/2021                | 0.704548                  |
+| SLBIF                | Final                 | 4/26/2021                | 0.691443                  |
+| NeverStop            | Final                 | 4/26/2021                | 0.678878                  |
+| TAMUSEG              | Final01               | 4/26/2021                | 0.647979                  |
+| Pythoneers           | Final01               | 4/26/2021                | 0.45166                   |
+| CREWES               | Final                 | 4/26/2021                | 0.185875                  |
+| GeoGeeks             | Final                 | 4/26/2021                | 0.084128                  |
 
 # Installation Guide
 
